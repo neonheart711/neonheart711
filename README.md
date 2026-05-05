@@ -17,8 +17,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neonheart711&theme=highcontrast&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=00FFFF&hide_border=true"/>
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neonheart711&layout=compact&theme=highcontrast&hide_border=true&title_color=00FFFF&text_color=00FFFF" />
 </p>---
 
 ⚙️ TECH STACK
