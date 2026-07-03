@@ -6,10 +6,10 @@
 
 👤 SYSTEM INFO
 
-- 🎓 Class 12 Student
-- 🧠 Cybersecurity Learner
-- 📱 Kali NetHunter User
-- ⚡ Terminal Driven
+- Cybersecurity Learner
+- Tech Explorer
+- Learn new Skills
+- Kali NetHunter User (Nethunter Genetic)
 
 ---
 
